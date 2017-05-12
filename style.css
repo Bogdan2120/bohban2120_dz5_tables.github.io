@@ -1,0 +1,26 @@
+table {
+	border: 1px solid red;
+  	border-collapse: collapse;
+}
+
+td, tr {
+	margin: 0 0;
+	border: 2px solid black;
+	color: #fff;
+}
+.red {
+	background: red;
+	color: red;
+}
+.yellow {
+	background: yellow;
+	color: yellow;
+}
+.black {
+	background: black;
+	color: black;
+}
+.blue {
+	background: blue;
+	color: blue;
+}
